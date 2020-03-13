@@ -1,0 +1,1 @@
+generate project without webapps folder for html or FE (web based)
