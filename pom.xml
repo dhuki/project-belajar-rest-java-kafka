@@ -12,7 +12,7 @@
     <properties>
 
         <!-- Spring version 5.2 working with kafka 2.4 -->
-        <spring-framework.version>5.2.3.RELEASE</spring-framework.version>
+        <spring-framework.version>5.2.20.RELEASE</spring-framework.version>
 
         <!-- Web -->
         <servlet.version>2.5</servlet.version>
